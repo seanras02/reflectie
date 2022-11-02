@@ -2,6 +2,7 @@
 ## merlijn 
 
 # wat heb ik met deze lessen nieuw geleerd
+<<<<<<< HEAD
 ## antwoord: hoe ik een reposetorymoet maken, hoe ik moet git pullen/ pushen en hoe ik moet commiten en add
 
 # wat wist ik al 
@@ -22,3 +23,10 @@
 
 # waarvan zou ik nog meer willen weten
 # Hoe ik een professional word.
+=======
+hasan - hoe ik met de cmd kan werken 
+# wat wist ik al 
+hasan - ik wist van niks dit is allemaal nieuwe voor mij
+# waarvan zou ik nog meer willen weten 
+hasan - hoe ik het sneler kan inleveren 
+>>>>>>> hasan
