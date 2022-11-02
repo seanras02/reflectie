@@ -2,8 +2,7 @@
 ## merlijn 
 
 # wat heb ik met deze lessen nieuw geleerd
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =====
 * antwoord: hoe ik een reposetorymoet maken, hoe ik moet git pullen/ pushen en hoe ik moet commiten en add
 
